@@ -14,7 +14,7 @@ We provide methods to get a list of connected devices and the information of eac
 
 Simple steps:
 
-- Create Widgets that need to display and define them as a permanent router when you configure the router in the Flutter code.
+- Create [android](android)Widgets that need to display and define them as a permanent router when you configure the router in the Flutter code.
 
 - Get the Displays list by calling `displayManager.getDisplays ()`
 
